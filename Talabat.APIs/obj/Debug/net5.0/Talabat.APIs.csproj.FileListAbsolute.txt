@@ -1,0 +1,164 @@
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\appsettings.Development.json
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\appsettings.json
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.exe
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.deps.json
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.json
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.dev.json
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Humanizer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.BLL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.DAL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.BLL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.AssemblyReference.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfoInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\scopedcss\bundle\Talabat.APIs.styles.css
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\staticwebassets\Talabat.APIs.StaticWebAssets.Manifest.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.RazorTargetAssemblyInfo.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CopyComplete
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\refint\Talabat.APIs.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.genruntimeconfig.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\obj\Debug\net5.0\ref\Talabat.APIs.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\AutoMapper.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.APIs\bin\Debug\net5.0\Stripe.net.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\appsettings.Development.json
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\appsettings.json
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.exe
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.deps.json
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.json
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.dev.json
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.APIs.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\AutoMapper.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Humanizer.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Stripe.net.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.BLL.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.DAL.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.BLL.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.AssemblyReference.cache
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfoInputs.cache
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.AssemblyInfo.cs
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\scopedcss\bundle\Talabat.APIs.styles.css
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\staticwebassets\Talabat.APIs.StaticWebAssets.Manifest.cache
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.RazorTargetAssemblyInfo.cache
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.csproj.CopyComplete
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\refint\Talabat.APIs.dll
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.pdb
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\Talabat.APIs.genruntimeconfig.cache
+D:\For Cv\Back-End\Talabat\Talabat.APIs\obj\Debug\net5.0\ref\Talabat.APIs.dll

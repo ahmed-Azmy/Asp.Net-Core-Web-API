@@ -1,0 +1,24 @@
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\refint\Talabat.DAL.dll
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
+D:\Route assignment\2 - Back-End\Asp.Net Core Web Api\Talabat\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll
+D:\For Cv\Back-End\Talabat\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+D:\For Cv\Back-End\Talabat\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+D:\For Cv\Back-End\Talabat\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\refint\Talabat.DAL.dll
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
+D:\For Cv\Back-End\Talabat\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll
